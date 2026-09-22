@@ -620,6 +620,10 @@ El archivo generado es:
 target/httpserver-1.0-SNAPSHOT.jar
 ```
 
+### Arquitectura en AWS (EC2)
+
+![Despliegue en EC2](Image/EC2%20.png)
+
 En el servidor cloud se deben configurar las variables de entorno correspondientes.
 
 Por ejemplo:
